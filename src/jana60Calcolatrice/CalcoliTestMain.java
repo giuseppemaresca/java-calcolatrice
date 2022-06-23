@@ -57,6 +57,8 @@ public class CalcoliTestMain {
 				"Il valore massimo fra i due valori è : " + CalcoliHelper.massimo(numeroRandom1, numeroRandom2));
 
 		System.out.println("Il valore assoluto di un numero negativo  è : " + CalcoliHelper.numeroAssoluto(-20));
+		
+		System.out.println("La potenza  è :"+CalcoliHelper.potenza(2,-6));
 
 	}
 }
